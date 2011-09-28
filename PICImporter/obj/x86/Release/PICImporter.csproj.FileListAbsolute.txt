@@ -1,0 +1,10 @@
+C:\Users\TSE\Documents\Projekte\VS2010\PICImporter\PICImporter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\TSE\Documents\Projekte\VS2010\PICImporter\PICImporter\bin\Release\PICImporter.exe.config
+C:\Users\TSE\Documents\Projekte\VS2010\PICImporter\PICImporter\bin\Release\PICImporter.exe
+C:\Users\TSE\Documents\Projekte\VS2010\PICImporter\PICImporter\bin\Release\PICImporter.pdb
+C:\Users\TSE\Documents\Projekte\VS2010\PICImporter\PICImporter\obj\x86\Release\PICImporter.exe
+C:\Users\TSE\Documents\Projekte\VS2010\PICImporter\PICImporter\obj\x86\Release\PICImporter.pdb
+C:\Users\TSE\Documents\Projekte\VS2010\PICImporter\PICImporter\bin\Release\PICImporter.exe.manifest
+C:\Users\TSE\Documents\Projekte\VS2010\PICImporter\PICImporter\bin\Release\PICImporter.application
+C:\Users\TSE\Documents\Projekte\VS2010\PICImporter\PICImporter\obj\x86\Release\PICImporter.exe.manifest
+C:\Users\TSE\Documents\Projekte\VS2010\PICImporter\PICImporter\obj\x86\Release\PICImporter.application

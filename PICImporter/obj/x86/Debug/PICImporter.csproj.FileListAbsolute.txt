@@ -1,0 +1,10 @@
+C:\Users\TSE\Documents\Projekte\VS2010\PICImporter\PICImporter\bin\Debug\PICImporter.exe.config
+C:\Users\TSE\Documents\Projekte\VS2010\PICImporter\PICImporter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TSE\Documents\Projekte\VS2010\PICImporter\PICImporter\bin\Debug\PICImporter.exe
+C:\Users\TSE\Documents\Projekte\VS2010\PICImporter\PICImporter\bin\Debug\PICImporter.pdb
+C:\Users\TSE\Documents\Projekte\VS2010\PICImporter\PICImporter\obj\x86\Debug\PICImporter.exe
+C:\Users\TSE\Documents\Projekte\VS2010\PICImporter\PICImporter\obj\x86\Debug\PICImporter.pdb
+C:\Users\TSE\Documents\Projekte\VS2010\PICImporter\PICImporter\bin\Debug\PICImporter.exe.manifest
+C:\Users\TSE\Documents\Projekte\VS2010\PICImporter\PICImporter\bin\Debug\PICImporter.application
+C:\Users\TSE\Documents\Projekte\VS2010\PICImporter\PICImporter\obj\x86\Debug\PICImporter.exe.manifest
+C:\Users\TSE\Documents\Projekte\VS2010\PICImporter\PICImporter\obj\x86\Debug\PICImporter.application
