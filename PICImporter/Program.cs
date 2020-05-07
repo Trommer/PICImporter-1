@@ -24,7 +24,7 @@ namespace PICImporter
 
         static void Main(string[] args)
         {
-            string UserFolder = "C:\\Users\\TSE\\Pictures\\";
+            string UserFolder = "D:\\Fotos\\";
 
             foreach (string pic in args)
             {
